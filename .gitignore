@@ -13,3 +13,6 @@ __pycache__/
 
 # Firmware Wi-Fi passwords (template: secrets.example.h)
 firmware/**/secrets.h
+
+# Compiled firmware (Arduino "Export Compiled Binary" / arduino-cli)
+firmware/**/build/
